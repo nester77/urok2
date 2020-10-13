@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        // Нестерович Алексей 02.04.1977
         int yearOfBirthday = 1977;
         int monthOfBirthday = 4;
         int dayOfBirthday = 2;
